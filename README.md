@@ -1,5 +1,3 @@
-<!--<h1 align="center">SpykeTools</h1>-->
-
 <h2 align="center">SpykeTools: A high-level python toolbox for advanced large-scale neuronal data analyses</h2>
 
 <p align="center"><img src="docs/logo_spyketools.png"  width="70%"/></p>
@@ -23,10 +21,8 @@
 + Focus on running parallel jobs to analyse spiking neural data.
 + Extensive functionality for extraction of high-dimensional neural patterns.
 
----
-
 ## Setup
-=== "(Recomended) Conda (Linux/Windows/MacOS)"
++ "(Recomended) Conda (Linux/Windows/MacOS)
 	+ Create a conda environment:
 	```sh
 	conda env create --file environment.yml
@@ -35,12 +31,6 @@
 	```sh
 	conda activate SpykeTools
 	```
-=== "Debian/Ubuntu"
-	Open a terminal and do:
-	```sh
-	sudo apt-get install allensdk=0.14.4 jupyter numba scikit-learn python=3.6.10 umap-learn
-	```
-
 
 ---
 
