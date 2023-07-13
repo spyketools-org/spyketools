@@ -2,7 +2,7 @@
 
 <h2 align="center">SpykeTools: A high-level python toolbox for advanced large-scale neuronal data analyses</h2>
 
-<p align="center"><img src="docs/logo_spyketools.png"  width="50%"/></p>
+<p align="center"><img src="docs/logo_spyketools.png"  width="70%"/></p>
 
 <!--<p align="center">Online article</p>-->
 
@@ -11,7 +11,6 @@
     <img alt="documentation" src="https://img.shields.io/badge/docs-mkdocs%20material-blue.svg?style=flat" />
   </a>
 </p>   
--->
 
 ---
 
@@ -24,6 +23,7 @@
 + Focus on running parallel jobs to analyse spiking neural data.
 + Extensive functionality for extraction of high-dimensional neural patterns.
 
+---
 
 ## Setup
 === "(Recomended) Conda (Linux/Windows/MacOS)"
