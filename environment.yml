@@ -1,0 +1,10 @@
+name: SpykeTools
+dependencies:
+  - python=3.9
+  - ipykernel
+  - numba==0.57.1
+  - scikit-learn
+  - conda-forge::umap-learn
+  - pip
+  - pip:
+    - allensdk==2.15.2
